@@ -1,0 +1,10 @@
+General Search:
+  - name: Google
+    url: https://www.google.com
+  - name: DuckDuckGo
+    url: https://duckduckgo.com
+Meta Search:
+  - name: StartPage
+    url: https://www.startpage.com
+  - name: Dogpile
+    url: http://www.dogpile.com
