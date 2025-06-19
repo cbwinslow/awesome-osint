@@ -13,6 +13,9 @@ Happy hacking and hunting 🧙‍♂️
 
 A simple Textual-based TUI is provided in `tui/main.py` to open listed OSINT tools and manage configuration. Run `python tui/main.py` after installing requirements.
 
+Use `python scripts/parse_readme.py` to regenerate `tools.yaml` from this README.
+Run `pytest` to execute link accessibility tests in `tests/test_links.py`.
+
 ## 📖 Table of Contents
 
  - [General Search](#-general-search)

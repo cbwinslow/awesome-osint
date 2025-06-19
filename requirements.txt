@@ -1,3 +1,4 @@
 textual>=0.1.18
 PyYAML>=6.0
 playwright>=1.30
+requests>=2.31.0
