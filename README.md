@@ -11,6 +11,15 @@ This list is to help all of those who are into Cyber Threat Intellience (CTI), t
 Happy hacking and hunting 🧙‍♂️
 ## 📟 OSINT TUI
 
+## 🛠️ Workflow Script
+
+Use `workflow.py` to aggregate results from all listed search engines:
+
+```bash
+python workflow.py "your search terms"
+```
+
+
 A simple Textual-based TUI is provided in `tui/main.py` to open listed OSINT tools and manage configuration. Run `python tui/main.py` after installing requirements.
 
 ## 📖 Table of Contents
